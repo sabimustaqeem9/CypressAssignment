@@ -1,4 +1,4 @@
-This test is written in cypress
+This test is written using cypress
 To install cypress please run
 npm install cypress
 
