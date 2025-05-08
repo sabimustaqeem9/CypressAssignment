@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "cypress": "^14.3.3",
+    "yarn": "^1.22.22"
+  },
+  "scripts": {
+    "open": "cypress open",
+    "e2e:chrome": "cypress run --browser chrome"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
